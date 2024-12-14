@@ -7,7 +7,7 @@ module.exports = {
     hardhat: {},
     ropsten: {
       url: "https://ropsten.infura.io/v3/YOUR_INFURA_PROJECT_ID", // Замените на ваш Infura URL
-      accounts: ["YOUR_PRIVATE_KEY"] // Замените на ваш приватный ключ
+      accounts: ["YOUR_PRIVATE_KEY"] // Замените на ваш приватный ключ , можно добавить выгрузку с файла
     }
   }
 };
